@@ -1,0 +1,14 @@
+C:\Users\I'm Pasha\source\repos\TaskArraylist\TaskArraylist\obj\Debug\net6.0\TaskArraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I'm Pasha\source\repos\TaskArraylist\TaskArraylist\obj\Debug\net6.0\TaskArraylist.AssemblyInfoInputs.cache
+C:\Users\I'm Pasha\source\repos\TaskArraylist\TaskArraylist\obj\Debug\net6.0\TaskArraylist.AssemblyInfo.cs
+C:\Users\I'm Pasha\source\repos\TaskArraylist\TaskArraylist\obj\Debug\net6.0\TaskArraylist.csproj.CoreCompileInputs.cache
+C:\Users\I'm Pasha\source\repos\TaskArraylist\TaskArraylist\bin\Debug\net6.0\TaskArraylist.exe
+C:\Users\I'm Pasha\source\repos\TaskArraylist\TaskArraylist\bin\Debug\net6.0\TaskArraylist.deps.json
+C:\Users\I'm Pasha\source\repos\TaskArraylist\TaskArraylist\bin\Debug\net6.0\TaskArraylist.runtimeconfig.json
+C:\Users\I'm Pasha\source\repos\TaskArraylist\TaskArraylist\bin\Debug\net6.0\TaskArraylist.dll
+C:\Users\I'm Pasha\source\repos\TaskArraylist\TaskArraylist\bin\Debug\net6.0\TaskArraylist.pdb
+C:\Users\I'm Pasha\source\repos\TaskArraylist\TaskArraylist\obj\Debug\net6.0\TaskArraylist.dll
+C:\Users\I'm Pasha\source\repos\TaskArraylist\TaskArraylist\obj\Debug\net6.0\refint\TaskArraylist.dll
+C:\Users\I'm Pasha\source\repos\TaskArraylist\TaskArraylist\obj\Debug\net6.0\TaskArraylist.pdb
+C:\Users\I'm Pasha\source\repos\TaskArraylist\TaskArraylist\obj\Debug\net6.0\TaskArraylist.genruntimeconfig.cache
+C:\Users\I'm Pasha\source\repos\TaskArraylist\TaskArraylist\obj\Debug\net6.0\ref\TaskArraylist.dll
